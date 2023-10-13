@@ -2,7 +2,7 @@ import { github, imgRenan, linkedin } from "../../../assets"
 
 export default function About() {
   return (
-    <div className="text-slate-100 p-10 flex justify-center items-center gap-4 border-b-2 border-slate-800 ">
+    <div className=" p-10 flex justify-center items-center gap-4 border-b-2 border-slate-200">
       <img
         className='rounded-full w-1/4 divide-solid'
         src={ imgRenan }

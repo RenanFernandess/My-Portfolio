@@ -1,4 +1,5 @@
 import Header from './Header'
-import { About, Portfolio } from './templates'
+import Footer from './Footer'
+import { About, Portfolio, Contact } from './templates'
 
-export { Header, About, Portfolio }
+export { Header, About, Portfolio, Contact, Footer }
